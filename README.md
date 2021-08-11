@@ -2,6 +2,8 @@
 
 Welsome to the syGlass Python Script Library! This document will grow as new scripts are submitted by syGlass engineers or members of the community. Please feel free to submit a PR to add your own script, or write us at info@syglass.io for help getting your script hosted.
 
+Note that for now, these scripts do not support running directly from syGlass using a Conda environment. Please download Python directly from the Python website until this is resolved.
+
 ## Index
 
 ### Image Extractor
